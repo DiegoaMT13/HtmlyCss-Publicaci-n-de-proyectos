@@ -86,7 +86,7 @@ body{
 .contenidop{
     font-size: 1.5rem;
     font-family: var(--fuente-monserat);
-    text-align: justify;
+    text-align: left;
 }
 .presentacion-enlaces{
     display: flex;
